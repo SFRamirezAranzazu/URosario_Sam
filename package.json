@@ -1,0 +1,5 @@
+{
+  "name":"node-red-project",
+  "description":"A Node-Red Project",
+  "Version":"0.01",
+  "private": true
